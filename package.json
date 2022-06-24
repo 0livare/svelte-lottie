@@ -1,0 +1,29 @@
+{
+  "name": "svelte-lottie",
+  "version": "0.0.0",
+  "description": "Lottie wrapper for Svelte",
+  "author": "Zach Posten <https://github.com/zposten>",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zposten/svelte-lottie.git"
+  },
+  "keywords": [
+    "svelte",
+    "lottie",
+    "web",
+    "animation",
+    "dreamweaver"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zposten/svelte-lottie/issues"
+  },
+  "homepage": "https://github.com/zposten/svelte-lottie#readme",
+  "dependencies": {
+    "lottie-web": "^5.9.4"
+  }
+}
